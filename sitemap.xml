@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.cs-laser.com.tw/</loc>
+  <lastmod>2016-03-30T09:02:06+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.cs-laser.com.tw/index.htm</loc>
+  <lastmod>2016-03-30T09:02:06+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.cs-laser.com.tw/index.files/02.htm</loc>
+  <lastmod>2016-03-30T09:02:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.cs-laser.com.tw/index.files/03.htm</loc>
+  <lastmod>2016-03-30T09:02:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.cs-laser.com.tw/index.files/04.htm</loc>
+  <lastmod>2016-03-30T09:02:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.cs-laser.com.tw/index.files/05.htm</loc>
+  <lastmod>2016-03-30T09:02:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
